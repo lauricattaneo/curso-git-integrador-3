@@ -1,0 +1,2 @@
+archivo-24.txt
+Curabitur erat quam, fringilla non enim nec, pharetra gravida dolor. Aenean id quam tempor lectus varius aliquet eu non ligula. Nulla lobortis imperdiet finibus. Aenean interdum non est eget volutpat. Donec volutpat faucibus diam, a fermentum nunc fermentum eget. Nulla facilisi. Duis turpis sem, egestas eu tellus sed, commodo consequat urna. Quisque a dolor diam. Proin tristique egestas dapibus.
